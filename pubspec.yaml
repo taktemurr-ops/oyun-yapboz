@@ -12,11 +12,11 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 293a3eda102647b57c23e670d800d91b48d32f0b
+      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
   bulmaca_motoru:
     git:
       url: https://github.com/taktemurr-ops/bulmaca-motoru
-      ref: 6b8b740cebb1cfc696c8f37e49c1a5496c93c2b7
+      ref: 79accfab4d8cd9260172f58d1321c4c45c37aa86
 
 dev_dependencies:
   flutter_test:
